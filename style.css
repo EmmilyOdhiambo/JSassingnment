@@ -22,6 +22,9 @@ body{
 }
 .new{
     margin-bottom: 5%;
+    margin-left: 24%;
+    padding-top: 246px;
+    font-size: 46px;
 }
 .form{
     padding-right: 80%;
@@ -144,6 +147,13 @@ body{
 table{
     width: 120px;
     /* display: flex; */
+}
+.hopper{
+    display: flex;
+    justify-content: space-between ;
+    color: white;
+    background-color: black;
+    gap: 50px;
 }
 
 
