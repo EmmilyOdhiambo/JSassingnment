@@ -1,0 +1,152 @@
+body{
+    overflow-x: hidden;
+}
+
+
+
+.cont{
+    padding: 20px;
+}
+.cont,p{
+    display: flex;
+    margin: 0% 30px;
+    gap: 40px;
+
+}
+.text{
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-color: black;
+    font-size: medium;
+}
+.new{
+    margin-bottom: 5%;
+}
+.form{
+    padding-right: 80%;
+}
+.flex{
+    font-weight: bolder;
+}
+
+.content{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    padding-left:100% 100% 100% 100%;
+    /* background-color: aliceblue; */
+    margin-top: 15%;
+}
+
+body{
+    background-color: lightgrey;
+    
+}
+.K{
+   padding: 2% 2% 2% 2%;
+   height: 180px;
+
+
+}
+.R{
+    padding: 2% 2% 2% 2%;
+    height: 180px;
+}
+.Q{
+    padding: 2% 2% 2% 2%;
+    height: 180px;
+}
+.S{
+    padding: 2% 2% 2% 2%;
+    height: 180px;
+
+}
+.E{
+    float: right;
+}
+.names{
+    /* display: flex; */
+    /* margin: 86px; */
+    /* margin-bottom: 20%; */
+}
+.frame{ 
+    display: flex;
+    /* margin-left: 5%; */
+    /* height: 200px; */
+    /* width: 150px; */
+    /* white-space: 5%; */
+    /* border-image: 50px; */
+    background-size: cover;
+ } 
+.phot{
+    width: 650px;
+    height: 400px;
+    display: flex;
+}
+.pic{
+     /* display: flex;  */
+    width: 550px;
+    height: 410px;
+    margin-left: 15px;
+    background-size: cover;
+}
+.detail{
+    display: flex;
+    gap: 20%;
+   color: white;
+}
+.font{
+    text-align: center;
+    background-color: black;
+   color: white;
+   
+}
+.flox{
+    background-color: black ;
+    text-decoration: bisque;
+}.color{
+    display: flex;
+    color: white;
+   background-color: white;
+   padding: 50px;
+}
+.fat{
+    width: 100px;
+    height: 100px;
+}
+.dash{
+    width: 100px;
+    height: 100px;
+}
+.dish{
+    width: 900px;
+    height: 600px;
+}
+.img1{
+    width:500px ;
+    height: 300px;
+}
+.dash h2,p2{
+    color: black;
+
+}
+#last{
+  width: 200px;
+  height: 300px;
+  display: flex;
+ 
+ 
+}
+.mydiv{
+    display: flex;
+}
+table{
+    width: 120px;
+    /* display: flex; */
+}
+
+
+
+
+
